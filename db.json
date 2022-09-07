@@ -1,0 +1,24 @@
+{
+    "arr" : [
+       {
+        "name" : "john cena",
+        "email" : "john@gmail.com",
+        "img" : "../assets/john.jpg"
+       },
+       {
+        "name" : "Roman Reign",
+        "email" : "roman@gmail.com",
+        "img" : "../assets/roman.jpeg"
+       },
+       {
+        "name" : "Brock Lesner",
+        "email" : "brock@gmail.com",
+        "img" : "../assets/brock.jpg"
+       },
+       {
+        "name" : "Seth Rolins",
+        "email" : "roman@gmail.com",
+        "img" : "../assets/seth.jpg"
+       }
+    ]
+}
